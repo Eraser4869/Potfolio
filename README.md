@@ -26,11 +26,11 @@
 >
 >> Back-end
 >> - Language : php, Mysql
->> - Skill : Apache
+>> - Skill : Apache, draw.io
 >
 >> Front-end
 >> - Language : html, css, javascript
->> - Skill : React.js
+>> - Skill : UIUX design, figma
 >>
 >> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
 
