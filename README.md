@@ -41,5 +41,3 @@
 # 📞 Contact
 
 - 이메일 : daniel2310990910@gmail.com
-  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
-  </a>
